@@ -1,0 +1,6 @@
+List of libraries required for the training of the model: 
+
+pandas
+numpy
+scikit-learn
+joblib
